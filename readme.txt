@@ -1,4 +1,5 @@
 Git is free software
 oohhh
 ~~~~~~~~~~~~~~
-ohhhhhhhhh~
+ohhhhhhhh~
+Git
